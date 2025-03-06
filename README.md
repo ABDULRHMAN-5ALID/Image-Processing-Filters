@@ -29,5 +29,5 @@ Open Image_Processing_Filtering.ipynb in Jupyter Notebook or Google Collab.
 Run the notebook to process and visualize filtered images.
 
 🔗 Connect with Me
-If you have any feedback or suggestions, feel free to connect with me on [LinkedIn]([linkedin.com/in/abdulrhman-almania-3844602b4](https://www.linkedin.com/in/abdulrhman-almania-3844602b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
+If you have any feedback or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrhman-almania-3844602b4/) 
 
